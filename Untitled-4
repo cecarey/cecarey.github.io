@@ -15,7 +15,7 @@ p{
 }
 
 header {
-    background-color:/ #000000;
+    background-color: #000000;
     color: #ffffff;
     height:44px;
     width:100%
