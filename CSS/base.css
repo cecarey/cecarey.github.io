@@ -5,8 +5,8 @@
 }    
     
 body{
-    font-family: Georgia, serif;
-    font-size: 16px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size:normal;
     line-height: 24px;
 }
 
@@ -39,4 +39,11 @@ nav {
     width: 45%;
     border: solid;
     border-width: 3px;
+}
+
+h2{
+    position: center;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 200%;
+
 }
