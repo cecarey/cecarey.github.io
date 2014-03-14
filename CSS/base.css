@@ -8,43 +8,48 @@ body{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size:normal;
     line-height: 24px;
-    background-color:#ff0000; 
+    background-color:#ff00ff; 
 }
 
 p{
     margin-bottom: 16px;
+    text-indent: 20px;
 }
 
 div {
-    border-style: solid;
+    background-color:#ffffff;
+    border-style: double;
     border-width: 5px;
     margin-left: 20%;
     margin-right: 20%;
+    
 }
 
 header a { 
     margin-right: 50px;
-    
-    
+    color: #ff00ff
 }
+ 
+
 
 nav {
    margin-left: 150px;
-    
-    
+            
 }
-
+ 
  figure {
-    margin-left: 250px;
-    margin-top: 50px;
-    width: 45%;
-    border: solid;
-    border-width: 3px;
-}
+    float:right;
+    margin-right: 400px;
+    margin-top: 8px;
+    width: 45px;
+    } 
 
 h2{
-    position: center;
+    position: ;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 200%;
 
 }
+
+footer {
+    color: #ff00ff
