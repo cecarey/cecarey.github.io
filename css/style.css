@@ -1,9 +1,11 @@
 *{
-    box-sizing:border-box;
+    border:0;
     margin: 0;
-    padding: 0;
-}    
-    
+    }    
+
+
+}
+
 body{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size:normal;
@@ -27,10 +29,9 @@ div {
 
 header a { 
     margin-right: 50px;
-    color: #ff00ff
+    color: #ff00ff;
 }
  
-
 
 nav {
    margin-left: 150px;
@@ -44,7 +45,7 @@ nav {
     width: 45px;
     } 
 
-h2{
+H3{
     position: ;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 200%;
