@@ -32,6 +32,12 @@ header a {
     margin-right: 50px;
     color: #ff00ff;
 }
+
+header a: link {}
+header a:visited {}
+header a:hover {
+    color:#ffffff;
+}
  
 nav {
     border: 1px solid black;
@@ -57,3 +63,4 @@ h2 {
 
 footer {
     color: #ff00ff
+}
