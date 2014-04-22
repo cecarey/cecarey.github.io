@@ -34,19 +34,21 @@ header a {
 }
  
 nav {
-    margin-left: 70px;
+    border: 1px solid black;
+    background-color: grey;
+    padding-left:40px;
+    max-width: 960px;
+    text-align:center;
 }
 
-            
-
- figure {
+figure {
     float:right;
     margin-right:300px;
     margin-top: 8px;
     width: 45px;
     } 
 
-h3 {
+h2 {
     position: ;
     font-family:"Lucida Sans Unicode", "Lucida Grande", "sans-serif";
     font-size: 200%;
