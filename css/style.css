@@ -7,11 +7,13 @@
 
 
 body {
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family: 'Yanone Kaffeesatz', 'sans-serif';
     font-size:normal;
     line-height: 24px;
     background-color:#ff00ff; 
 }
+
+
 
 p {
     margin-bottom: 16px;
@@ -56,11 +58,26 @@ figure {
 
 h2 {
     position: ;
-    font-family:"Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+    font-family: 'Lobster', 'cursive';
     font-size: 200%;
+    padding: 20px;
 
 }
+
+ul{
+    margin-left:10px;
+    padding-left: 20px;
+    list-style:circle;
+}
+
+
 
 footer {
     color: #ff00ff
 }
+
+
+section {
+    float:right;
+    margin-left:200px;
+    } 
