@@ -27,8 +27,7 @@ p {
     margin-left: 20%;
     margin-right: 20%;
     max-width: 960px;
-    
-}
+    }
 
 header a { 
     margin-right: 50px;
@@ -51,33 +50,37 @@ nav {
 
 figure {
     float:right;
-    margin-right:300px;
-    margin-top: 8px;
+    margin-right:250px;
+    margin-top: 20px;
     width: 45px;
     } 
 
 h2 {
     position: ;
-    font-family: 'Lobster', 'cursive';
+    font-family: 'Lobster','cursive';
     font-size: 200%;
     padding: 20px;
-
 }
 
-ul{
+section img {
+    float:right;
+    margin-right:250px;
+    width: 100px;
+    margin-bottom: 500px;
+    } 
+
+ul {
     margin-left:10px;
     padding-left: 20px;
     list-style:circle;
 }
 
-
+iframe {
+    width=300px;
+}
 
 footer {
     color: #ff00ff
 }
 
 
-section {
-    float:right;
-    margin-left:200px;
-    } 
